@@ -33,7 +33,7 @@ content:
     type: collection
     path: 'src/recipes'
     subfolders: true
-    filename: "{primary}.md"
+    filename: "{primary}-{year}-{month}.md"
     view:
       fields: [ title, image, featured, tags ]
     fields:
