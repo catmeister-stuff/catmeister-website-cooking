@@ -35,7 +35,7 @@ content:
     subfolders: true
     filename: "{primary}.md"
     view:
-      fields: [ title, image, featured, available, tags ]
+      fields: [ title, image, featured, tags ]
     fields:
       - name: title
         label: Title
@@ -45,16 +45,15 @@ content:
         label: Image
         type: image
         required: true
-      - name: medium
-        label: Medium
-        type: string
+      - name: tags
+        label: Category
+        type: select
         required: true
-      # - name: tags
-      #   label: Category
-      #   type: select
-      #   required: true
-      #   options:
-      #     values: [paintings, digital, dry-media, sketches]
+        options:
+          multiple: true
+          values:
+            - vegan
+            - vegetarian
   - name: site
     label: Site settings
     path: src/_data/website.json
