@@ -28,10 +28,10 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: work
-    label: Work
+  - name: recipes
+    label: Recipes
     type: collection
-    path: 'src/work'
+    path: 'src/recipes'
     subfolders: true
     filename: "{primary}.md"
     view:
@@ -49,20 +49,12 @@ content:
         label: Medium
         type: string
         required: true
-      - name: tags
-        label: Category
-        type: select
-        required: true
-        options:
-          values: [paintings, digital, dry-media, sketches]
-      - name: available
-        label: Available?
-        type: boolean
-        default: true
-      - name: featured
-        label: Featured on homepage?
-        type: boolean
-        default: false
+      # - name: tags
+      #   label: Category
+      #   type: select
+      #   required: true
+      #   options:
+      #     values: [paintings, digital, dry-media, sketches]
   - name: site
     label: Site settings
     path: src/_data/website.json
