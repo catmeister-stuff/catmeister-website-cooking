@@ -7,7 +7,7 @@
   </label> -->
   <div class="color-scheme-wrapper">
     <div id="nav-wrapper">
-      <div id="site-logo-text"><a href="/">(=◉ᆽ◉=)</a></div>
+      <div id="site-logo-text"><a href="/">{{website.title}}</a><br/></div>
     </div>
     <div id="main-wrapper">
       <main>
@@ -16,9 +16,9 @@
     </div>
     <div id="footer-wrapper">
       <footer>
-        <div>{% include "partials/navigation.njk" %}</div>
         <br/><a href="/colophon/">
-          <:3)~
+        {{ website.catmeister }} <br/>
+          &copy;2025
         </a>
       </footer>
     </div>
