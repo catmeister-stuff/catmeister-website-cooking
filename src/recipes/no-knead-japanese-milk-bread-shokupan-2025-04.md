@@ -17,18 +17,18 @@ intro: >-
   A forgiving recipe, you can swap the dairy for vegan alternatives without
   issue. I usually make it with country crock plant butter + full fat oat milk.
 ingredients: >-
-  ## Poolish
+  ### Poolish
 
 
-  *   **165g bread flour**
+  *   165g bread flour
       
-  *   **165g water**
+  *   165g water
       
-  *   **1/4t active dry** or instant yeast (if you're baking in 4 hours) OR
+  *   1/4t active dry or instant yeast (if you're baking in 4 hours) OR
   **1/16th** (if you're baking tomorrow morning and it's night)
       
 
-  Yudane
+  ### Yudane
 
 
   *   165g bread flour
@@ -38,7 +38,7 @@ ingredients: >-
   *   165g full fat milk (cow or plant)
       
 
-  Dough
+  ### Dough
 
 
   *   Poolish
@@ -61,24 +61,24 @@ ingredients: >-
 steps: >-
   1.  Anywhere from 4 to 12 hours before you make your dough, make your poolish:
       
-      1.  **Add yeast into water, stir, then add flour and mix until uniform.** Personally, I think using a whisk for any sort of dough is nonsense - too much sticks to the whisk. Use chopsticks!
+      1.  Add yeast into water, stir, then add flour and mix until uniform. Personally, I think using a whisk for any sort of dough is nonsense - too much sticks to the whisk. Use chopsticks!
           
-      2.  **Cover and let sit at ~70F until bubbly and fermented.** It's ready when a blob dropped in a cup of water will float.
+      2.  Cover and let sit at ~70F until bubbly and fermented. It's ready when a blob dropped in a cup of water will float.
 
           
   2.  When your poolish is ready, cook your yudane:
       
-      1.  **Combine the flour, water and milk in a sauce pan.**
+      1.  Combine the flour, water and milk in a sauce pan.
           
-      2.  **Weigh the entire thing - your sauce pan included.** You want to know how much it weighs up front so you know how much liquid you've cooked off while gelatinizing your starch.
+      2.  Weigh the entire thing - your sauce pan included. You want to know how much it weighs up front so you know how much liquid you've cooked off while gelatinizing your starch.
           
-      3.  **Cook over medium heat, stirring constantly, until temp reaches 150F** - the mixture will be pudding like in consistency.
+      3.  Cook over medium heat, stirring constantly, until temp reaches 150F - the mixture will be pudding like in consistency.
           
-      4.  **Let it cool enough so that you can weigh it again.**
+      4.  Let it cool enough so that you can weigh it again.
           
-      5.  **Subtract cooked weight from raw weight**. This difference is how much liquid you've cooked off that needs to be added back to the recipe.
+      5.  Subtract cooked weight from raw weight. This difference is how much liquid you've cooked off that needs to be added back to the recipe.
           
-      6.  **Add missing water back to pan while still warm and stir to combine.** This also helps cool the yudane and loosens it up so it won't be so difficult to remove from the pan.
+      6.  Add missing water back to pan while still warm and stir to combine. This also helps cool the yudane and loosens it up so it won't be so difficult to remove from the pan.
 
           
   3.  Measure your ingredient temperatures. Your **DDT** is 78F.
