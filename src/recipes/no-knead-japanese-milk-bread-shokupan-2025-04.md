@@ -1,6 +1,9 @@
 ---
 title: No Knead Japanese Milk Bread (Shokupan / 食パン)
 image: undefined
+diet: omnivore
+tags:
+  - bread
 intro: Yeah alright then, here's an intro.
 ingredients: |-
   *   One cup of milk
