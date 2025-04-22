@@ -54,6 +54,15 @@ content:
           values:
             - vegan
             - vegetarian
+      - name: intro
+        label: Intro text
+        type: rich-text
+      - name: ingredients
+        label: Ingredients
+        type: rich-text
+      - name: steps
+        label: Steps
+        type: rich-text 
   - name: site
     label: Site settings
     path: src/_data/website.json
