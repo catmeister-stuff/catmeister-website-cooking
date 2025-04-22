@@ -10,31 +10,6 @@ media:
     label: Files
     categories: [ document, video, compressed, audio ]
 content:
-  - name: about
-    label: About
-    path: src/about.md
-    type: file
-    fields:
-      - name: title
-        label: Page title
-        type: string
-      - name: image
-        label: Image
-        type: image
-      - name: body
-        label: Body
-        type: rich-text
-  - name: contact
-    label: Contact
-    path: src/contact.md
-    type: file
-    fields:
-      - name: title
-        label: Page title
-        type: string
-      - name: body
-        label: Body
-        type: rich-text
   - name: recipes
     label: Recipes
     type: collection
@@ -89,6 +64,9 @@ content:
     fields:
       - name: title
         label: Website title
+        type: string
+      - name: subtitle
+        label: subtitle
         type: string
       - name: description
         label: Website description
