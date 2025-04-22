@@ -70,6 +70,9 @@ content:
           multiple: true
           values:
             - bread
+      - name: yield
+        label: Yield
+        type: string
       - name: intro
         label: Intro text
         type: rich-text
