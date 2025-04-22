@@ -85,6 +85,16 @@ module.exports = function (eleventyConfig) {
     markdownLibrary.render(markdownString),
   );
   
+eleventyConfig.addCollection('tagMenu', (collections) => {
+    const tags = collections
+      .getAll(collections.page)
+      .reduce((tags, item) => tags.concat(item.data.tags), [])
+      .filter((tag) => !!tag)
+      .filter((tag) => tag !== 'page')
+      .sort();
+    return Array.from(new Set(tags));
+  });
+  
     // eleventyConfig.addFilter("log", (obj) => {
     //   console.log(obj);
     // });

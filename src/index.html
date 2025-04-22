@@ -1,0 +1,11 @@
+---
+title: Home
+layout: base_no_topnav
+---
+<br/>
+<div id="index-nav">
+{% for tag in collections.tagMenu %}
+    <a href="/{{tag}}/">{{tag}}</a>
+  {% endfor %}
+</div>
+

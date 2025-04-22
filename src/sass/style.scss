@@ -1,6 +1,10 @@
 :root {
   --site-width: 64rem;
-  --liam-green: #083026;
+  --color-main-a: #333;
+  --color-main-b: #EEE;
+  --color-accent-a: #336699; // https://www.w3schools.com/colors/colors_picker.asp
+  --color-accent-b: #9fbfdf;
+  --color-accent-c: #c6d9ec;
 }
 
 
@@ -18,7 +22,8 @@ body {
 
   min-width: 320px;
 
-  // color: var(--color-five);
+  background-color: var(--color-main-b);
+  color: var(--color-main-a);
 
   // cursor: url("/assets/images/cursor-pointer.png") 12 0,auto;
 
@@ -27,9 +32,6 @@ body {
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 1fr;
     min-height:100vh;
-
-    background-color: var(--color-five);
-    color: var(--color-background);
   }
 }
 
@@ -47,7 +49,7 @@ body {
 
     a {
       text-decoration: none;
-      color: #000;
+      color: #111;
       font-weight: bold;
     }
   }
@@ -72,7 +74,7 @@ body {
 
         font-weight: bold;
 
-        color: #000;
+        color: #111;
       }
     }
   }
@@ -80,24 +82,6 @@ body {
 }
 
 #main-wrapper {
-  &.gallery {
-    background-color: var(--liam-green);
-
-    nav#sub-nav {
-      margin: 0 auto;
-      // padding: 1rem 0;
-      max-width: var(--site-width);
-      text-align: center;
-
-      a {
-        display: inline-block;
-        padding: 1rem;
-        text-decoration: none;
-        font-weight: bold;
-        color: #FFF;
-      }
-    }
-  }
   main {
     margin: 0 auto;
     padding: 0 1rem;
@@ -120,48 +104,19 @@ body {
 }
 
 
+#recipe {
+    outline: 0.25rem dashed var(--color-accent-c);
+  outline-offset: 0;
+  background-color: var(--color-accent-c);
+  padding: 2rem;
+}
+
 img {
     display: block;
     // max-height:95px;
     width: 100%;
     height: auto;
   }
-
-#gallery {
-  display: grid;
-  grid-template-columns: repeat(1,1fr);
-  grid-column-gap: 1rem;
-  grid-row-gap: 1rem;
-  padding-bottom: 2.5rem;
-
-  div {
-    display: flex;
-    overflow: hidden;
-
-    img {
-        object-fit: cover;
-        height: 100%;
-        border-radius:2%;
-    }
-  }
-}
-
-@media (min-width: 580px) {
-  #gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  img#aboutimage {
-  float: left;
-  max-width: 400px;
-  margin-right: 2rem;
-}
-}
-
-@media (min-width: 766px) {
-  #gallery {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
 
 @media (min-width: 65rem) {
   #main-wrapper {
