@@ -49,8 +49,8 @@ content:
         label: Diet type?
         type: select
         required: true
+        default: omnivore
         options:
-          default: omnivore
           values:
             - omnivore
             - vegan
