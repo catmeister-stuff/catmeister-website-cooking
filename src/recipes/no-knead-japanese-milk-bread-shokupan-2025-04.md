@@ -17,7 +17,7 @@ intro: >-
   A forgiving recipe, you can swap the dairy for vegan alternatives without
   issue. I usually make it with country crock plant butter + full fat oat milk.
 ingredients: >-
-  ### Poolish
+  #### Poolish
 
 
   *   165g bread flour
@@ -28,7 +28,7 @@ ingredients: >-
   **1/16th** (if you're baking tomorrow morning and it's night)
       
 
-  ### Yudane
+  #### Yudane
 
 
   *   165g bread flour
@@ -38,7 +38,7 @@ ingredients: >-
   *   165g full fat milk (cow or plant)
       
 
-  ### Dough
+  #### Dough
 
 
   *   Poolish

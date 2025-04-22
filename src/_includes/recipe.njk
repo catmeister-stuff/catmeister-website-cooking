@@ -7,13 +7,13 @@ layout: base.njk
     {{ intro | markdownify | safe}}
 
     <section id="recipe">
-        <h2>{{ title }}</h2>
+        <h2 id="title">{{ title }}</h2>
         <section id="ingredients">
-        <h2>Ingredients</h2>
+        <h3>Ingredients</h3>
         {{ ingredients | markdownify | safe }}
         </section>
         <section id="steps">
-        <h2>Steps</h2>
+        <h3>Steps</h3>
         {{ steps | markdownify | safe }}
         </section>
     </section>

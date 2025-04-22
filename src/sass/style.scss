@@ -178,6 +178,12 @@ li {
   outline-offset: 0;
   background-color: var(--color-accent-c);
   padding: 2rem;
+  margin-top: 2rem;
+
+  #title {
+    border-bottom: 0.25rem dashed var(--color-main-b);
+    padding-bottom: 1rem;
+  }
 }
 
 img {
