@@ -1,5 +1,5 @@
 ---
-title: No Knead Japanese Milk Bread (Shokupan / 食パン) with Poolish
+title: No Knead Japanese Milk Bread (Shokupan / 食パン)
 image: undefined
 diet: omnivore
 tags:
