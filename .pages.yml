@@ -49,7 +49,7 @@ content:
         type: string
         required: true
       - name: image
-        label: Image
+        label: Hero Image
         type: image
         required: true
       - name: diet
