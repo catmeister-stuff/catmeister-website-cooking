@@ -15,12 +15,79 @@ intro: >-
 
   A forgiving recipe, you can swap the dairy for vegan alternatives without
   issue. I usually make it with country crock plant butter + full fat oat milk.
-ingredients: |-
-  *   One cup of milk
+ingredients: >-
+  ## Poolish
+
+
+  *   **165g bread flour**
       
-  *   One cup of flour
-steps: |-
-  1.  Drink the milk
+  *   **165g water**
       
-  2.  Eat the flour
+  *   **1/4t active dry** or instant yeast (if you're baking in 4 hours) OR
+  **1/16th** (if you're baking tomorrow morning and it's night)
+      
+
+  Yudane
+
+
+  *   165g bread flour
+      
+  *   165g water
+      
+  *   165g full fat milk (cow or plant)
+      
+
+  Dough
+
+
+  *   Poolish
+      
+  *   Yudane
+steps: >-
+  1.  Anywhere from 4 to 12 hours before you make your dough, make your poolish:
+      
+      1.  **Add yeast into water, stir, then add flour and mix until uniform.** Personally, I think using a whisk for any sort of dough is nonsense - too much sticks to the whisk. Use chopsticks!
+          
+      2.  **Cover and let sit at ~70F until bubbly and fermented.** It's ready when a blob dropped in a cup of water will float.
+
+          
+  2.  When your poolish is ready, cook your yudane:
+      
+      1.  **Combine the flour, water and milk in a sauce pan.**
+          
+      2.  **Weigh the entire thing - your sauce pan included.** You want to know how much it weighs up front so you know how much liquid you've cooked off while gelatinizing your starch.
+          
+      3.  **Cook over medium heat, stirring constantly, until temp reaches 150F** \- the mixture will be pudding like in consistency.
+          
+      4.  **Let it cool enough so that you can weigh it again.**
+          
+      5.  **Subtract cooked weight from raw weight**. This difference is how much liquid you've cooked off that needs to be added back to the recipe.
+          
+      6.  **Add missing water back to pan while still warm and stir to combine.** This also helps cool the yudane and loosens it up so it won't be so difficult to remove from the pan.
+
+          
+  3.  Measure your ingredient temperatures. Your **DDT** is 78F.
+      
+      1.  Measure the flour temp.
+          
+      2.  Measure the poolish temp.
+          
+      3.  Measure the yudane temp.
+          
+      4.  Measure the room temp.
+          
+      5.  From 390 (78\*5), subtract the flour, poolish, yudane and room temperatures.
+          
+      6.  This number is the temp of your water / milk.
+
+          
+  4.  Combine the water and milk and and either refrigerate or microwave to
+  bring to the appropriate temp.
+      
+  5.  Add your liquid to the yudane, mixing uniformly.
+      
+  6.  Add your sugar and yeast, mixing uniformly.
+      
+  7.  Add your softened butter and mix until fully incorporated. Your mixture
+  should be cool enough
 ---
