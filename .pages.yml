@@ -1,7 +1,14 @@
 media:
-  input: src/images
-  output: /images
-  label: Images
+  - name: images
+    input: src/images
+    output: /images
+    label: Images
+    categories: [ image ]
+  - name: files
+    input: src/files
+    output: /files
+    label: Files
+    categories: [ document, video, compressed, audio ]
 content:
   - name: about
     label: About
