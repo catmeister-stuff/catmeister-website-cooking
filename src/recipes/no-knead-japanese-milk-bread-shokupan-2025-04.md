@@ -43,6 +43,20 @@ ingredients: >-
   *   Poolish
       
   *   Yudane
+      
+  *   496g bread flour
+      
+  *   48g water
+      
+  *   71g milk
+      
+  *   14g ady
+      
+  *   49g sugar
+      
+  *   113g butter (one stick)
+      
+  *   17g salt
 steps: >-
   1.  Anywhere from 4 to 12 hours before you make your dough, make your poolish:
       
@@ -57,7 +71,7 @@ steps: >-
           
       2.  **Weigh the entire thing - your sauce pan included.** You want to know how much it weighs up front so you know how much liquid you've cooked off while gelatinizing your starch.
           
-      3.  **Cook over medium heat, stirring constantly, until temp reaches 150F** \- the mixture will be pudding like in consistency.
+      3.  **Cook over medium heat, stirring constantly, until temp reaches 150F** - the mixture will be pudding like in consistency.
           
       4.  **Let it cool enough so that you can weigh it again.**
           
@@ -89,5 +103,24 @@ steps: >-
   6.  Add your sugar and yeast, mixing uniformly.
       
   7.  Add your softened butter and mix until fully incorporated. Your mixture
-  should be cool enough
+  should be cool to not _melt_ the butter.
+      
+  8.  Add your salt and mix.
+      
+  9.  Add your poolish and mix.
+      
+  10.  FINALLY, add flour and mix. It'll be sticky, and it won't really hold
+  together. THAT'S FINE! Fermentation will give you the gluten you need.
+      
+  11.  Now, you're going to leave this thing mostly alone, covered, for
+  somewhere between 2 and 3 hours. You want the volume to double, and you want
+  to pass the windowpane test. Every 45 minutes, you will stretch and fold
+  twice. Keep it warm! If it's winter, I like to slop the dough onto my bench
+  and then boil some water and pour it into a little glass and place it next to
+  the dough, then invert a giant stainless steel bowl over it. Impromptu proof
+  box!
+      
+  12.  After you've stretched and folded 3 times, see if dough passes the
+  windowpane test. For me, I usually get windowpane at 2:15 and volume doubling
+  at 2:30 or so.
 ---
