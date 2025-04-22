@@ -45,15 +45,24 @@ content:
         label: Image
         type: image
         required: true
+      - name: diet
+        label: Diet type?
+        type: select
+        required: true
+        options:
+          default: omnivore
+          values:
+            - omnivore
+            - vegan
+            - vegetarian
       - name: tags
-        label: Category
+        label: Food type
         type: select
         required: true
         options:
           multiple: true
           values:
-            - vegan
-            - vegetarian
+            - bread
       - name: intro
         label: Intro text
         type: rich-text
