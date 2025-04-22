@@ -4,6 +4,7 @@ image: undefined
 diet: omnivore
 tags:
   - bread
+yield: 2 standard loaves
 intro: >-
   This bread is the _perfect sandwich bread_. Grilled cheese, soft squishy PB&Js
   and sloppy towers of meat and cheese and sauce slapped between two quivering
