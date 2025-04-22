@@ -63,12 +63,12 @@ module.exports = function (eleventyConfig) {
       },
     });
   
-    // let markdownLibrary = markdownIt({
-    //   html: true,
-    //   // breaks: true,
-    //   linkify: true,
-    //   // typographer: true,
-    // })
+    let markdownLibrary = markdownIt({
+      html: true,
+      // breaks: true,
+      linkify: true,
+      // typographer: true,
+    });
     // .use(markdownItFootnote)
     // .use(markdownItAbbr);
 
@@ -79,7 +79,11 @@ module.exports = function (eleventyConfig) {
       //   '<ol class="footnotes-list">\n'
       // );
       
-      // eleventyConfig.setLibrary("md", markdownLibrary);
+      eleventyConfig.setLibrary("md", markdownLibrary);
+
+        eleventyConfig.addNunjucksFilter("markdownify", (markdownString) =>
+    markdownLibrary.render(markdownString),
+  );
   
     // eleventyConfig.addFilter("log", (obj) => {
     //   console.log(obj);
