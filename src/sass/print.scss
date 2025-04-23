@@ -1,0 +1,19 @@
+@media print {
+  /* All your print styles go here */
+  #nav-wrapper,
+  #footer-wrapper {
+    display: none !important;
+  }
+
+  article > h1:first-of-type {
+    display: none !important;
+
+  }
+  #intro {
+    display: none !important;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+}
