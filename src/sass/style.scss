@@ -200,6 +200,12 @@ img {
     height: auto;
   }
 
+img#hero {
+  max-height: 16rem;
+  width: auto;
+  margin: 0 auto; 
+}
+
 @media (min-width: 65rem) {
   #main-wrapper {
     main {
