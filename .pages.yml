@@ -57,6 +57,9 @@ content:
       - name: steps
         label: Steps
         type: rich-text 
+      - name: references
+        label: References
+        type: rich-text
   - name: site
     label: Site settings
     path: src/_data/website.json
