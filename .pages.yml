@@ -60,6 +60,9 @@ content:
       - name: references
         label: References
         type: rich-text
+      - name: description
+        label: meta description / google description
+        type: string
   - name: site
     label: Site settings
     path: src/_data/website.json
