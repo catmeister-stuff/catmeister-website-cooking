@@ -71,6 +71,9 @@ content:
       - name: subtitle
         label: subtitle
         type: string
+      - name: catmeister
+        label: catmeister
+        type: string
       - name: description
         label: Website description
         type: string
