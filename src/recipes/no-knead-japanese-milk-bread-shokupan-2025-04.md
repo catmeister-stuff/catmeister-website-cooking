@@ -142,4 +142,5 @@ references: >-
       
   *   [How to Make a Perfect No-Knead Brioche Dough Without Compromises -
   ChainBaker](https://www.chainbaker.com/no-knead-brioche/)
+description: This bread is the perfect sandwich bread. Now fuck off!
 ---
