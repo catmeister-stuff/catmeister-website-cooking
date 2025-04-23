@@ -3,24 +3,6 @@ layout: base.njk
 ---
 
 <article>
-    <h1>{{ title }}</h1>
-    {{ intro | markdownify | safe}}
-
-    <section id="recipe">
-        <h2 id="title">{{ title }}</h2>
-        <span><strong>Yield: {{ yield }}</strong></span>
-        <section id="ingredients">
-        <h3>Ingredients</h3>
-        {{ ingredients | markdownify | safe }}
-        </section>
-        <section id="steps">
-        <h3>Steps</h3>
-        {{ steps | markdownify | safe }}
-        </section>
-        {% if references %}
-            <h3>References</h3>
-            {{ references | markdownify | safe }}
-        </section>
-        {% endif %}
-    </section>
+{{ content | markdownify | safe }}
 </article>
+

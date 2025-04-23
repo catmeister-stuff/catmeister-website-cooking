@@ -1,5 +1,5 @@
 {
-    "layout": "recipe",
+    "layout": "recipe-md",
     "permalink": "{{page.filePathStem | removeWorkDir }}/index.html",
     "date": "git Created",
     "date_modified": "git Last Modified"

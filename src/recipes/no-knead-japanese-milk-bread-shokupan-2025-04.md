@@ -51,7 +51,7 @@ ingredients: >-
       
   *   71g milk
       
-  *   14g ady
+  *   14g ADY
       
   *   49g sugar
       

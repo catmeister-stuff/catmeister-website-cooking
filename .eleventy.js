@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 // const markdownItFootnote = require("markdown-it-footnote");
-// const markdownItAbbr = require('markdown-it-abbr');
+const markdownItAbbr = require('markdown-it-abbr');
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = function (eleventyConfig) {
@@ -68,9 +68,9 @@ module.exports = function (eleventyConfig) {
       // breaks: true,
       linkify: true,
       // typographer: true,
-    });
+    })
+    .use(markdownItAbbr);
     // .use(markdownItFootnote)
-    // .use(markdownItAbbr);
 
   
       // markdownLibrary.renderer.rules.footnote_block_open = () => (
