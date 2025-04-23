@@ -124,4 +124,22 @@ steps: >-
   12.  After you've stretched and folded 3 times, see if dough passes the
   windowpane test. For me, I usually get windowpane at 2:15 and volume doubling
   at 2:30 or so.
+references: >-
+  *   [How to Make the Best Japanese Shokupan Milk Bread · i am a food
+  blog](https://iamafoodblog.com/how-to-make-the-best-japanese-shokupan-milk-bread/)
+      
+  *   [Japanese Milk Bread (Shokupan) (Video) 食パン • Just One
+  Cookbook](https://www.justonecookbook.com/japanese-milk-bread-shokupan/)
+      
+  *   [Shokupan Recipe (Fluffy Japanese Milk Bread With
+  Tangzhong)](https://www.hungryhuy.com/shokupan/)
+      
+  *   [The Fluffiest and Easiest Japanese Milk Bread. Shokupan Japanese Milk
+  Bread - YouTube](https://www.youtube.com/watch?v=rEHF0KtJqwc)
+      
+  *   [Shokupan Recipe (Japanese Milk Bread Loaf) - Chopstick
+  Chronicles](https://www.chopstickchronicles.com/shokupan-japanese-fluffy-white-bread/)
+      
+  *   [How to Make a Perfect No-Knead Brioche Dough Without Compromises -
+  ChainBaker](https://www.chainbaker.com/no-knead-brioche/)
 ---
