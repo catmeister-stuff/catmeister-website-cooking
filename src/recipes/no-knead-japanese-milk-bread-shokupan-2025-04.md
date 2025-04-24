@@ -1,4 +1,6 @@
 ---
+date: git Created
+date_modified: git Last Modified
 title: No Knead Japanese Milk Bread (Shokupan / 食パン)
 image: /images/shokupan.png
 diet: omnivore

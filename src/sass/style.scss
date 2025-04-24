@@ -112,6 +112,12 @@ h1, h2, h3, h4, h5, h6, p {
       color: #111;
       font-weight: bold;
     }
+
+    img {
+      max-height: 8rem;
+      width: auto;
+      margin: 0 auto;
+    }
   }
 
   #header-nav-bar {
