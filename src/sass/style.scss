@@ -61,7 +61,10 @@ h1, h2, h3, h4, h5, h6 {
   --color-main-b: #EEE;
   --color-accent-a: #336699; // https://www.w3schools.com/colors/colors_picker.asp
   --color-accent-b: #9fbfdf;
-  --color-accent-c: #c6d9ec;
+  --color-accent-c:  #c6d9ec;
+  --color-one: #902923;
+  --color-background: #ffd252; // edb525
+  --color-three: #631C18;
 }
 
 body {
@@ -117,6 +120,26 @@ h1, h2, h3, h4, h5, h6, p {
       max-height: 8rem;
       width: auto;
       margin: 0 auto;
+    }
+
+    span {
+      display: block;
+
+      &#clank {
+        // text-transform: uppercase;
+        font-style: italic;
+        letter-spacing: 0.5rem;
+        font-weight: bold;
+        filter: drop-shadow(2px 2px 0px var(--color-accent-a)) drop-shadow(-2px -2px 0px var(--color-one));
+        color: var(--color-background);
+        font-size: 3rem;
+        line-height: 2rem;
+      }
+
+      &#kitchen {
+        font-size: 1rem;
+        font-style: italic;
+      }
     }
   }
 
@@ -187,7 +210,7 @@ li {
 
 
 #recipe {
-    outline: 0.25rem dashed var(--color-accent-c);
+  outline: 0.25rem dashed var(--color-accent-c);
   outline-offset: 0;
   background-color: var(--color-accent-c);
   padding: 2rem;

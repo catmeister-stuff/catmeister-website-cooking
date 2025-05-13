@@ -5,7 +5,7 @@ layout: base.njk
 <article>
 <img id="hero" src="{{ image }}" alt="{{ title }}"/>
 {{ content | markdownify | safe }}
-Posted: {{ date }}
-Last Updated: {{ date_modified }}
+Posted: {{ page.date }}
+Last Updated: {{ page.date_modified }}
 </article>
 
